@@ -3,7 +3,7 @@ import java.util.Arrays;
 /**
  * Created by rico on 2016/11/14.
  */
-public class ThreeSumClosest {
+public class Three_Sum_Closet {
 
     public int threeSumClosest(int[] nums, int target) {
 

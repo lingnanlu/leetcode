@@ -7,7 +7,7 @@ import java.util.List;
  *
  * 本题的难点在于消除重复结果
  */
-public class ThreeSum {
+public class Three_Sum {
     public List<List<Integer>> threeSum(int[] nums) {
 
         List<List<Integer>> results = new ArrayList<List<Integer>>();
