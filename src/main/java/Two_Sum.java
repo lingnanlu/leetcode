@@ -7,7 +7,6 @@ import java.util.Map;
  */
 public class Two_Sum {
 
-
     //利用hashtable来将一个数的检索时间降到O(1)
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<Integer, Integer>();
